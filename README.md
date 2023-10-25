@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SSID98
-- 👀 I’m interested in Vue Js, Flutter 
+- 👀 I’m interested in Flutter/dart
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
