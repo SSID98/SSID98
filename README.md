@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Achi Joel
-- 👀 I’m interested in Flutter/dart
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a mobile developer with some good experience using Flutter/dart
+- 🌱 I’m currently gathering more experience and I want to start learning Python for backend 
+- 📫 I currently have a Bsc in computer science as my highest level of education
+- I'm open for remote job opportunities and wish to learn in the process if need be
 
 <!---
 SSID98/SSID98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
